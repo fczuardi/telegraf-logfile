@@ -1,0 +1,23 @@
+{
+  "name": "telegraf-logfile",
+  "version": "0.1.0",
+  "description": "writes all Telegram updates to a log file",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:fczuardi/telegraf-logfile.git",
+    "type": "git"
+  },
+  "author": "Fabricio C Zuardi <fabricio@fabricio.org>",
+  "license": "MIT",
+  "eslintConfig": {
+    "extends": "mnmo"
+  },
+  "dependencies": {
+    "winston": "^2.3.0",
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "eslint-config-mnmo": "^3.0.0"
+  }
+}
