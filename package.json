@@ -1,6 +1,6 @@
 {
   "name": "telegraf-logfile",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "writes all Telegram updates to a log file",
   "main": "index.js",
   "repository": {
